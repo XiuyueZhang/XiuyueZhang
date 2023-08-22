@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi Elle here 👋
 
-<!--
-**XiuyueZhang/XiuyueZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineering student and aspiring software entrepreneur with
+a focus on modular software and clean code.
 
-Here are some ideas to get you started:
+Interested in building fun, interactive, and beautiful experiences
+(front-end/back-end/cloud ...).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Life
+Bred the penguin chillin' by the fire.
+
+:shipit: Applied computing graduate in Nov 2023 @ Lincoln University
+
+Skills
+JavaScript Python React TypeScript
+
+Ongoing plan: Learning 🦀.
+
+
+Looking for a software engineering intern~~ Let's connect and talk!
