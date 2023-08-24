@@ -1,15 +1,13 @@
 ### Hi Elle here 👋
 
-Software engineering student and aspiring software entrepreneur with
-a focus on modular software and clean code.
-
+:shipit: Applied computing graduate in Nov 2023 @ Lincoln University
 Interested in building fun, interactive, and beautiful experiences
 (front-end/back-end/cloud ...).
 
 Life
 Bred the penguin chillin' by the fire.
 
-:shipit: Applied computing graduate in Nov 2023 @ Lincoln University
+
 
 Skills
 JavaScript Python React TypeScript
