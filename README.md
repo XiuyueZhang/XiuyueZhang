@@ -1,4 +1,5 @@
 ### Hi Elle here 👋
+https://github.com/XiuyueZhang/XiuyueZhang/assets/104173626/e67fa9b0-7868-4e47-a608-e2b6564fb0f7
 
 :shipit: Applied computing graduate in Nov 2023 @ Lincoln University
 
