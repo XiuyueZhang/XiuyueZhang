@@ -13,8 +13,8 @@ Life
 Bred the penguin chillin' by the fire.
 
 Skills
-JavaScript Python React TypeScript
+Golang JavaScript Python React TypeScript
 
 Ongoing plan: Learning 🦀.
 
-Looking for a software engineering intern~~ Let's connect and talk!
+Working as a junior software developer~~ Let's connect and talk!
