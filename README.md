@@ -1,20 +1,72 @@
-### Hi Yue here 👋
-[https://github.com/XiuyueZhang/XiuyueZhang/assets/104173626/e67fa9b0-7868-4e47-a608-e2b6564fb0f7](https://github.com/XiuyueZhang/XiuyueZhang/issues/1#issue-1866069324)
+👋 Hi, I'm Yue  
 
-:shipit: Applied computing graduated in May 2024 @ Lincoln University
+Product-minded Frontend Engineer  
+Focused on **Angular / React / TypeScript**  
+Interested in **code quality, testing, and system design**
 
-Interested in building fun, interactive, and beautiful experiences
-(front-end/back-end/cloud ...).
+---
 
-Please have a look at my personal page here ~
-https://xiuyuezhang.github.io/Personal-page/
+### 🛠 What I Build
 
-Life
-Bred the penguin chillin' by the fire.
+---
 
-Skills
-Golang JavaScript Python React TypeScript
+#### 🎓 EJYU-ReactNative
+**Mobile app for students preparing for the EJU exam**
 
-Ongoing plan: Learning 🦀.
+A cross-platform mobile application built with **React Native** and **Go**, designed to support students preparing for the *Examination for Japanese University Admission (EJU)*.
 
-Working as a junior software developer~~ Let's connect and talk!
+The app focuses on structured learning workflows, progress tracking, and a smooth mobile-first experience.  
+Currently under active development, with a planned public release later this year.
+
+**Tech:** React Native · TypeScript · Go  
+**Status:** 🚧 In progress · Planned launch in 2026
+
+---
+
+#### 🤖 gitai
+**Privacy-first AI-powered Git commit CLI**
+
+A lightweight **CLI tool written in Go** for generating high-quality Git commit messages.
+
+**Features include:**
+- Customizable commit templates  
+- Interactive user prompts  
+- Local AI-based generation to protect user privacy  
+
+Designed for developers and teams who care about **commit clarity, consistency, and data ownership**.
+
+**Tech:** Go · CLI  
+**Focus:** Developer Experience · Privacy-first AI
+
+---
+
+#### 🧠 mental-gym
+**Exploring how to keep the mind active in the AI era**
+
+An early-stage product concept exploring how people can maintain and train cognitive abilities as AI becomes deeply integrated into daily life.
+
+The project focuses on reflection, thinking patterns, and mental engagement rather than productivity alone.  
+Currently in the ideation and design phase.
+
+**Status:** 💭 Concept & exploration
+
+
+---
+
+### 🚀 Tech Stack
+- Frontend: Angular, React, TypeScript
+- Styling: Tailwind CSS
+- Testing: Jest, Cypress, Playwright
+- Infra: GitHub Actions, CI/CD
+- Others: NgRx, Storybook
+
+---
+
+### ✍️ Notes & Thinking
+- Code quality & refactoring
+- Developer growth as a junior → mid engineer
+- Learning logs & technical notes
+
+---
+
+> Anything added dilutes everything else.
