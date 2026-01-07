@@ -1,8 +1,6 @@
 👋 Hi, I'm Yue  
 
-Product-minded Frontend Engineer  
-Focused on **Angular / React / TypeScript**  
-Interested in **code quality, testing, and system design**
+Passionate about turning ideas I love into real apps.
 
 ---
 
@@ -55,10 +53,10 @@ Currently in the ideation and design phase.
 
 ### 🚀 Tech Stack
 - Frontend: Angular, React, TypeScript
+- Backend: Golang, Python
 - Styling: Tailwind CSS
-- Testing: Jest, Cypress, Playwright
+- Testing: Jest, Cypress
 - Infra: GitHub Actions, CI/CD
-- Others: NgRx, Storybook
 
 ---
 
